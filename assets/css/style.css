@@ -199,14 +199,14 @@ button {
 
 /* toggle */
 
-.faq-toggle .icon-down {
+.faq-toggle .icon-up {
   display: none;
 }
 .faq.active .faq-toggle .icon-down {
-  display: block;
+  display: none;
 }
 .faq.active .faq-toggle .icon-up {
-  display: none;
+  display: block;
 }
 
 .faq-title {
